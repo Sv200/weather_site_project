@@ -1,7 +1,10 @@
 .InfoBox {
     text-align:center;
     
-   
+       background-image: url(https://images.pexels.com/photos/907485/pexels-photo-907485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
  
 }
 
